@@ -1,4 +1,4 @@
-# OpenRnak_ODIM
-influence maximization in open source software based on heterogeneous garph
+# OpenRnak+ OMDM
+Influence Maximization in Open Source Software Community based on Collaboration Network
 
 The repository will update constantly.
